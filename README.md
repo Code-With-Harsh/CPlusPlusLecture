@@ -1,6 +1,6 @@
 # [CPlusPlusLecture](https://wiki.ifs.hsr.ch/CPlusPlus)
 
-This repository is used to provide all source code shown in my (basic) C++ lecture. 
+This repository is used to provide all source code shown in my (basic) C++ lectures. 
 
 It contains Cevelop workspaces on a per week basis for the 14 weeks. ws01..ws14
 
